@@ -170,5 +170,3 @@ legend("bottomright",
 
 ### **Conclusion**
 Leveraging real-world European transaction data, this end-to-end fraud detection initiative achieved a 97.48% AUC and demonstrated my command of the full machine learning lifecycle. I evaluated four approaches—logistic regression, decision trees, neural networks, and gradient boosting—and found that a well-tuned logistic regression outperformed the more complex models. By addressing class imbalance, engineering features for maximum signal, and prioritizing model interpretability, I delivered production-ready workflows spanning data preprocessing, model development, performance evaluation, and clear business recommendations. This project reinforced that deep data understanding and rigorous validation often trump flashy techniques—and showcased my ability to tackle real-world machine learning challenges.
-
-### Dashboard
